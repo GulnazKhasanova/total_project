@@ -146,6 +146,9 @@ body {
     border-color: var(--button-disabled-backgound);
     cursor: auto;
 }
+.error{
+    color:#ff5555;
+}
 
 @media (max-width: 720px) {
     body {

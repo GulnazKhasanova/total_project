@@ -3,6 +3,7 @@ import { DemoButton } from './DemoButton';
 
 export class DemoCounter extends Component {
   setup(props) {
+   
     this.state = { 
       counter: 0 
     };
